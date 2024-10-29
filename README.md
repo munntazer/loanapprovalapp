@@ -17,6 +17,7 @@ A classification model that predicts whether a loan will be approved based on th
   - `Matplotlib` & `Seaborn`: For data visualization.
   - `Imbalanced-learn`: For handling imbalanced datasets.
   - `LabelEncoder`: For encoding categorical features.
+  - `Streamlit`: For deployment of model.
 
 
 ## Expected Results
